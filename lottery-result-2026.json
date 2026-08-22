@@ -1,0 +1,12 @@
+{
+ "season": 2026,
+ "digits": [
+  4,
+  9,
+  1
+ ],
+ "combination": 491,
+ "winner": "Tom Gleason",
+ "method": "python secrets.randbelow(10), three independent draws",
+ "assignment_sha256": "845fd3d6f8808601af08b7fde22829fe1c255a1fe95d4b8a8f991ee926c1f911"
+}
